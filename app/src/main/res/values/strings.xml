@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlterHomeDome</string>
+    <string name="alter_msg">%s应用进入了后台</string>
+</resources>
